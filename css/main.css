@@ -1,0 +1,24 @@
+body{
+	background: #eee;
+
+}
+.score{
+	background-color: #000;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #eee;
+	width: 480px;
+	padding: 0;
+	margin: auto;
+}
+
+span{
+	margin-left: 300px; 
+}
+
+canvas{
+	display: block;
+	padding: 0;
+	margin: auto;
+	width: 480px;
+}
